@@ -12,4 +12,3 @@ const ImageComp = function (props)
 }
 
 export default ImageComp;
-test
